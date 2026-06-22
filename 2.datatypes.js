@@ -19,7 +19,7 @@ let d = "John";
 // let f = `Hello ${2 + 2}`; //? Hello 4
 let f = `Hello ${d}`; //? Hello John
 
-console.log(f);
+// console.log(f);
 
 //* boolean
 let g = true;
