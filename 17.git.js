@@ -33,3 +33,8 @@
 //? remote
 //* git remote -v
 //* git remote add origin <remote_url>
+
+//todo: branch
+//* git branch -> list all local branches
+//* git branch <branch_name>  create new branch
+//* git switch <branch_name>
