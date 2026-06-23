@@ -37,17 +37,11 @@
 //todo: branch
 //* git branch -> list all local branches
 //* git branch <branch_name>    -> create new branch
+//* git branch -d <branch_name>  -> delete local branch
 //* git switch <branch_name>    -> switch between branch
 //* git switch -c <branch_name> -> create & switch branch
 
 //* git merge <branch_name>
-// this is change from main
-// this is change from main
-// this is change from main
-// this is change from main
-// this is change from main
-// this is change from main
-// this is change from main
-// this is change from main
-// this is change from main
-// this is change from main
+
+//* git stash
+//* git stash pop
