@@ -38,3 +38,5 @@
 //* git branch -> list all local branches
 //* git branch <branch_name>  create new branch
 //* git switch <branch_name>
+
+//* git merge <branch_name>
