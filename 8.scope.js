@@ -6,12 +6,12 @@ const global_const = "global const";
 var global_var = "global var";
 
 //* block scope {}
-if (true) {
-  let block_let = "block let";
-  const block_const = "block const";
-  var block_var = "block var";
-  console.log(block_const, block_let, block_var); //* block const block let block var
-}
+// if (true) {
+//   let block_let = "block let";
+//   const block_const = "block const";
+//   var block_var = "block var";
+//   console.log(block_const, block_let, block_var); //* block const block let block var
+// }
 // console.log(block_const); //! ReferenceError: block_const is not defined
 // console.log(block_let); //! ReferenceError: block_let is not defined
 // console.log(block_var); //* block var
