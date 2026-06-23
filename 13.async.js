@@ -7,15 +7,15 @@ console.log("Start");
 
 //!setTimeout
 // setTimeout(callback,timeout,...args )
-const timer_id = setTimeout(
-  (a, b, c) => {
-    console.log("processing", a, b, c);
-  },
-  2000,
-  "A",
-  "B",
-  12,
-);
+// const timer_id = setTimeout(
+//   (a, b, c) => {
+//     console.log("processing", a, b, c);
+//   },
+//   2000,
+//   "A",
+//   "B",
+//   12,
+// );
 
 // const timer_id_1 = setTimeout(() => {
 //   console.log("processing 1");

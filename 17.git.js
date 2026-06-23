@@ -22,7 +22,7 @@
 
 //? working directory     ->             staging area          ->         local repo        -> remote repo
 //   changes                              ready state                        commit /
-//
+//                                       git add .                    git commit -m  "msg"       git push origin branch_name
 
 //* git status
 //* git add <file_path>
