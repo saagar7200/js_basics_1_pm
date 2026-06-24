@@ -77,13 +77,13 @@ console.log(greet());
 //   return a + b;
 // };
 
-const add1 = function (a, b) {
-  // let sum = a + b;
-  // return sum;
+// const add1 = function (a, b) {
+//   // let sum = a + b;
+//   // return sum;
 
-  return a + b;
-};
-const x = add1(12, 3);
+//   return a + b;
+// };
+// const x = add1(12, 3);
 
 // console.log(add(12, 3));
 
