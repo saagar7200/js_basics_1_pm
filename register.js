@@ -3,3 +3,7 @@ const register = () => {
 };
 
 register();
+register();
+register();
+register();
+register();
