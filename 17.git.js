@@ -55,3 +55,15 @@
 // feature  -> register
 // fix
 // hotfix
+
+//* reset
+//? git reset --soft HEAD~1
+//? git reset --mixed HEAD~1
+//? git reset --hard HEAD~1
+// a -> b -> c  -> d
+
+// a -> b -> c
+
+//* revert
+//? git revert  HEAD~1
+// a -> b -> c -> d -> c'
