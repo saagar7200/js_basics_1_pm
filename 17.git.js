@@ -49,3 +49,9 @@
 //* git stash pop
 
 //! pull request -> PR
+
+// main  -> production
+// develop -> integration
+// feature  -> register
+// fix
+// hotfix
